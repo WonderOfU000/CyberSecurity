@@ -1,0 +1,13 @@
+⚠️ IMPORTANT LEGAL AND SAFETY NOTICE ⚠️
+
+This web application is INTENTIONALLY VULNERABLE and is designed STRICTLY for educational purposes in a controlled LOCAL environment only. 
+
+BY USING THIS LAB YOU AGREE TO:
+1. ONLY run this application locally on your own machine
+2. NEVER deploy this application to any public server or network
+3. ONLY perform security testing against your own local instance
+4. Use the knowledge gained for ethical and legal purposes only
+
+The techniques demonstrated here are for educational purposes to understand security vulnerabilities and their mitigations. Attempting these techniques against any systems you do not own or have explicit permission to test is ILLEGAL and may result in civil and criminal penalties.
+
+You are solely responsible for how you use this knowledge. Always practice security testing legally and ethically.
